@@ -5,7 +5,6 @@ rating: 1
 categories: [ music ]
 image: assets/images/are-you-experienced.jpeg
 featured: true
-hidden: true
 ---
 
 In 1967, The Jimi Hendrix Experience released _Are You Experienced_, an album that went [quintuple platinum](https://www.riaa.com/gold-platinum/?tab_active=default-award&ar=Jimi+Hendrix&ti=Are+You+Experienced&format=Album&type=#search_section), inspired generations of guitarists, and “established the transcendent promise of psychedelia.”
