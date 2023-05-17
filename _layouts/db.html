@@ -69,6 +69,39 @@ post_class: post-template
                     </div>
                 {% endif %}
                 <!-- End Toc -->
+
+                <!-- Bio -->
+                {% if page.era and page.dates %}
+                <p>
+                  <strong>Era: </strong>{{page.era}}<em> ({{page.dates}})</em>
+                </p>
+                {% endif %}
+
+                <!-- Field -->
+                {% if page.field %}
+                <p><strong>Field: </strong>{{page.field}}</p>
+                {% endif %}
+
+                <!-- Acclaim -->
+                {% if page.acclaim %}
+                <h2>Accomplishments</h2>
+                <ul>
+                {% for entry in page.acclaim %}
+                <li>{{entry}}</li>
+                {% endfor %}
+                </ul>
+                {% endif %}
+
+                <!-- Criticism -->
+                {% if page.criticism %}
+                <h2>Critiques and setbacks</h2>
+                <ul>
+                {% for critique in page.criticism %}
+                <li>{{critique}}</li>
+                {% endfor %}
+                </ul>
+                {% endif %}
+
                 {{content}}
             </div>
 
