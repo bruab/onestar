@@ -4,7 +4,7 @@ title:  "Emily Dickinson"
 rating: 1
 categories: [ literature, poetry ]
 image: assets/images/emily-dickinson.jpeg
-dates: "12-10-1830 to 05-15-1886"
+dates: "1830 to 1886"
 era: "Mid 1800s"
 field: English poetry
 acclaim: ["One of the most influential poets in American history"]
