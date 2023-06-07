@@ -2,7 +2,7 @@
 layout: TODO post OR db
 title:  "TODO"
 rating: 1
-categories: [ TODO ]
+categories: [ TODO music literature acting science philosophy art poetry ]
 image: assets/images/TODO
 dates: "TODO to TODO"
 era: "TODO"
