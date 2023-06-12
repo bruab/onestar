@@ -1,5 +1,5 @@
 ---
-layout: db
+layout: post
 title:  "Evelyn Waugh"
 rating: 1
 categories: [ literature ]
