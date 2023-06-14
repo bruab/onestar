@@ -4,6 +4,7 @@ title:  "Evelyn Waugh"
 rating: 1
 categories: [ literature ]
 image: assets/images/evelyn-waugh.jpeg
+date: 2023-06-07
 featured: false
 ---
 
