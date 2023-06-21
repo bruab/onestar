@@ -1,5 +1,5 @@
 ---
-layout: TODO post OR db
+layout: post
 title:  "TODO"
 rating: 1
 categories: [ TODO music literature acting science philosophy art poetry ]
