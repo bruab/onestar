@@ -25,7 +25,7 @@ And 75 years after its premiere, critics were [still slamming it](https://link.s
 
 > ... dull and ugly … [o]h, the pages of stupid and hopelessly vulgar music! The unspeakable cheapness ...
 
-You may or may not be composing a symphony that gets printed on a gold record and placed on a spaceship. Either way, you'll face similar judgements. How to deal with them?
+You may or may not be composing a symphony that gets printed on a gold record and placed on a spaceship. Either way, you'll face similar judgments. How to deal with them?
 
 You could just let them go, taking comfort in the knowledge that you're having an inevitable and universal human experience.
 
