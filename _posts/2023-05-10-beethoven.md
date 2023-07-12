@@ -4,7 +4,7 @@ title:  "Ludwig van Beethoven"
 rating: 1
 categories: [ music ]
 image: assets/images/beethoven.jpg
-featured: true
+featured: false
 ---
 
 Da da da _dummmmm_.
