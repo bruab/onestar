@@ -3,7 +3,7 @@ layout: post
 title:  "Marie Curie"
 rating: 1
 categories: [ science ]
-image: assets/images/marie-curie.jpg
+image: assets/images/marie-curie.png
 featured: false
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Ludwig van Beethoven"
 rating: 1
 categories: [ music ]
-image: assets/images/beethoven.jpg
+image: assets/images/beethoven.png
 featured: false
 ---
 

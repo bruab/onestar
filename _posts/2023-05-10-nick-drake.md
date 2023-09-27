@@ -3,7 +3,7 @@ layout: post
 title:  "Nick Drake"
 rating: 1
 categories: [ music ]
-image: assets/images/nick-drake.jpg
+image: assets/images/nick-drake.png
 featured: false
 ---
 
