@@ -3,7 +3,7 @@ layout: post
 title:  "Evelyn Waugh"
 rating: 1
 categories: [ literature ]
-image: assets/images/evelyn-waugh.jpeg
+image: assets/images/evelyn-waugh.png
 date: 2023-06-07
 featured: false
 ---

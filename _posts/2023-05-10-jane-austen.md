@@ -3,7 +3,7 @@ layout: post
 title:  "Jane Austen"
 rating: 1
 categories: [ literature ]
-image: assets/images/pride-and-prejudice.webp
+image: assets/images/jane-austen.png
 featured: true
 ---
 
