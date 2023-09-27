@@ -3,7 +3,7 @@ layout: post
 title:  "Trota of Salerno"
 rating: 1
 categories: [ science ]
-image: assets/images/trota-of-salerno.jpg
+image: assets/images/trota-of-salerno.png
 featured: false
 ---
 
