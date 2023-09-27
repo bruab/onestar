@@ -3,7 +3,7 @@ layout: post
 title:  "Jimi Hendrix"
 rating: 1
 categories: [ music ]
-image: assets/images/are-you-experienced.jpeg
+image: assets/images/jimi-hendrix.png
 featured: true
 ---
 

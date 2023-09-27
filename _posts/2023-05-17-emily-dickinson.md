@@ -3,7 +3,7 @@ layout: post
 title:  "Emily Dickinson"
 rating: 1
 categories: [ literature, poetry ]
-image: assets/images/emily-dickinson.jpeg
+image: assets/images/emily-dickinson.png
 featured: false
 ---
 

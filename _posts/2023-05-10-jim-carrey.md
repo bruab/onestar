@@ -3,7 +3,7 @@ layout: post
 title:  "Jim Carrey"
 rating: 1
 categories: [ acting ]
-image: assets/images/gene-siskel.png
+image: assets/images/jim-carrey.png
 featured: true
 ---
 
