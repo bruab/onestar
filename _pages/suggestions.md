@@ -2,7 +2,6 @@
 layout: page
 title: "Suggest an article!"
 permalink: /suggestions
-comments: true
 ---
 
 Got ideas for someone I should write about?

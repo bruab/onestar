@@ -2,7 +2,6 @@
 layout: page
 title: "Thank you!"
 permalink: /submission-ty
-comments: true
 ---
 
 If you provided an email, I'll follow up to let you know what I find.
