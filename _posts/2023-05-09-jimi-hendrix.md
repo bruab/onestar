@@ -4,6 +4,7 @@ title:  "Jimi Hendrix"
 rating: 1
 categories: [ music ]
 image: assets/images/jimi-hendrix.png
+excerpt: '"inartistically violent ..."'
 featured: true
 ---
 
