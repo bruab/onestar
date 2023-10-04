@@ -8,7 +8,7 @@ date: 2023-10-04
 featured: false
 ---
 
-It's hard to overstate Taylor Swift's success. She was named Artist of the Decade by the American Music Award, after being the second highest-grossing live music artist of the 2010s—such that the [Federal Reserve](https://www.federalreserve.gov/monetarypolicy/beigebook202307.htm) made mention of her impact on local economies.
+It's hard to overstate Taylor Swift's success. She was named Artist of the Decade by the American Music Awards, after being the second highest-grossing live music artist of the 2010s—such that the [Federal Reserve](https://www.federalreserve.gov/monetarypolicy/beigebook202307.htm) made mention of her impact on local economies.
 
 And critics hailed her talent from the very beginning—_Country Weekly_ claimed her first album (released at age 16) "suggests a talent poised to last well past high school," while _Billboard_ praised the "genius" of her second album.
 
