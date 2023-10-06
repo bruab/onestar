@@ -5,19 +5,15 @@ rating: 1
 categories: [ literature ]
 image: assets/images/evelyn-waugh.png
 date: 2023-06-07
+excerpt: '"Too British"'
 featured: false
 ---
 
-_Author and journalist, 20th century (1903-1966)_
+_Author and journalist (1903-1966)_
 
-## Acclaim
+Waugh wrote _Brideshead Revisited_, which was chosen as #80 on [Modern Library's 100 Best Novels in the English Language](https://en.wikipedia.org/wiki/Modern_Library_100_Best_Novels). His renown was such that he was offered the [Order of the British Empire](https://en.wikipedia.org/wiki/Evelyn_Waugh#cite_ref-167).
 
-- Wrote _Brideshead Revisited_, which was chosen as #80 on [Modern Library's 100 Best Novels in the English Language](https://en.wikipedia.org/wiki/Modern_Library_100_Best_Novels)
-- Offered the [Order of the British Empire](https://en.wikipedia.org/wiki/Evelyn_Waugh#cite_ref-167)
-
-## Criticism
-
-Waugh sent a draft of his first novel to friend Harold Acton, who said
+He may have received the recognition of the royal family, but his peers weren't quite as encouraging. Waugh sent a draft of his first novel to friend Harold Acton, who said
 
 > Too British for my exotic taste ... too much nid-nodding over port.
 
