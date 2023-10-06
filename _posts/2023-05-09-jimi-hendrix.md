@@ -14,15 +14,13 @@ In 1967, The Jimi Hendrix Experience released _Are You Experienced_, an album th
 
 The above quote is from [Rolling Stone](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/jimi-hendrix-are-you-experienced-1063203/), which ranked _Are You Experienced_ as #30 in their list of the top 500 albums of all time.
 
-And yet.
+That's not always how they felt.
 
-When the record first came out, Rolling Stone [totally dragged it](https://www.rollingstone.com/music/music-news/album-reviews-jimi-hendrix-and-eric-clapton-188030/). Their review criticized “the poor quality of the songs and the inanity of the lyrics” and summed up with this quote:
+When the record first came out, Rolling Stone [summed it up as follows](https://www.rollingstone.com/music/music-news/album-reviews-jimi-hendrix-and-eric-clapton-188030/):
 
 > Above all this record is unrelentingly violent, and lyrically, inartistically violent at that.
 
-Whatever you’re working on this week may or may not change the way thousands of performers think about their instrument, or create and define a new genre. Maybe so! Maybe not.
+They also lamented “the poor quality of the songs and the inanity of the lyrics.” This is a criticism Hendrix heard often enough to respond to:
 
-But what’s almost certain is that someone will find something to hate about it.
-
-Since this is a foregone conclusion, I hope you’ll dare to be as inartistically violent as you please.
+> All I'm writing is just what I feel, that's all. I just keep it almost naked. And probably the words are so bland.
 
