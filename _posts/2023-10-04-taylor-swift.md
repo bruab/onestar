@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Taylor Swift"
+title: "Taylor Swift"
 rating: 1
 categories: [ music ]
 image: assets/images/taylor-swift.png
