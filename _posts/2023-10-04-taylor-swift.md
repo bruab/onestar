@@ -5,7 +5,7 @@ rating: 1
 categories: [ music ]
 image: assets/images/taylor-swift.png
 date: 2023-10-04
-excerpt: '"She's a terrible singer."'
+excerpt: '"... she’s a terrible singer."'
 featured: false
 ---
 
