@@ -5,6 +5,7 @@ rating: 1
 categories: [ science ]
 image: assets/images/oleg-losev.png
 date: 2023-10-23
+excerpt: "Discovered LED technology. Died of starvation."
 submitted_by: "Visakan Veerasamy https://twitter.com/visakanv/status/1331934998035742722 via Tom Kerwin"
 featured: false
 ---
