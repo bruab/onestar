@@ -28,4 +28,4 @@ He starred in two musicals during his very first year in Hollywood, the second o
 
 He went on to make dozens of films, win two Academy Awards and multiple Golden Globes, and revolutionize the way dance was presented in film—both from a technical perspective and as a storytelling device.
 
-Today you'll find him memorialized in songs by Madonna, Donna Summer, and as a member of the Film, Television, and Grammy Halls of Fame.
+Today you'll find him memorialized in songs by Madonna, Donna Summer, and Too Short, and as a member of the Film, Television, and Grammy Halls of Fame.
