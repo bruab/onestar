@@ -5,6 +5,7 @@ rating: 1
 categories: [ literature ]
 image: assets/images/madeleine-lengle.png
 date: 2023-11-20
+submitted_by: "Marjorie Turner Hollman"
 featured: false
 ---
 
