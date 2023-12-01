@@ -6,6 +6,7 @@ categories: [ music ]
 image: assets/images/led-zeppelin.png
 date: 2023-11-21
 submitted_by: "bdh"
+excerpt: '"... weak, unimaginative songs ... very dull"'
 featured: false
 ---
 
