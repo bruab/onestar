@@ -4,7 +4,7 @@ title: "Thanks!"
 permalink: /subscribe-ty
 ---
 
-You'll get an email every monday, and automatically be entered to win merch every month.
+You'll get an email every monday.
 
 See you soon!
 
