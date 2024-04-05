@@ -14,7 +14,7 @@ featured: false
 
 Pyotr Ilyich Tchaikovsky was a composer who clearly challenged the taste and sensibilities of critics. Throughout his entire career, across Europe and the United States, he received consistent attacks for his style ("dissonant convulsions"), his ambition ("as difficult for popular apprehension as the name of the composer") and his Russian-ness:
 
-> ... decidely too Russian ...
+> ... decidedly too Russian ...
 
 —Eduard Hanslick, _Neue Freie Presse_, Vienna, 1876
 
