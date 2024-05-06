@@ -4,6 +4,8 @@ title:  "Franz Liszt"
 rating: 1
 categories: [ music ]
 image: assets/images/franz-liszt.png
+excerpt: '"He writes the ugliest music extant."'
+bio: "Piano virtuoso who expanded the boundaries of the instrument while playing to throngs of adoring fans"
 date: 2024-04-19
 featured: false
 ---
