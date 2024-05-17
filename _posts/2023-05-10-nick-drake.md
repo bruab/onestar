@@ -21,6 +21,6 @@ featured: false
 
 References:
 
-- "[500 Greatest Albums](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/)"
-- "[Not nearly enough variety](https://en.wikipedia.org/wiki/Nick_Drake#Five_Leaves_Left_(1969))"
-- "[awkward mix](https://www.telegraph.co.uk/culture/music/3617296/Brighter-very-much-later.html)"
+- ["500 Greatest Albums"](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/)
+- ["Not nearly enough variety"](https://en.wikipedia.org/wiki/Nick_Drake#Five_Leaves_Left_(1969))
+- ["awkward mix"](https://www.telegraph.co.uk/culture/music/3617296/Brighter-very-much-later.html)

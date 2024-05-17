@@ -22,6 +22,6 @@ featured: true
 
 References:
 
-- "[9th greatest](https://www.theguardian.com/books/2003/oct/12/features.fiction)"
-- "[nothing vehement](https://www.yorkshirepost.co.uk/arts-and-culture/austen-versus-brontes-in-epic-head-to-head-1892364)" 
-- "[shin bone](http://www.twainquotes.com/Austen_Jane.html)"
+- ["9th greatest"](https://www.theguardian.com/books/2003/oct/12/features.fiction)
+- ["nothing vehement"](https://www.yorkshirepost.co.uk/arts-and-culture/austen-versus-brontes-in-epic-head-to-head-1892364)"
+- ["shin bone"](http://www.twainquotes.com/Austen_Jane.html)

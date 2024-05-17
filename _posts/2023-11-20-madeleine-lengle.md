@@ -15,3 +15,8 @@ featured: false
 - Decided to quit writing at age 40
 - _A Wrinkle In Time_ was rejected by 26 publishers
 
+---
+
+References:
+
+- ["26 publishers"](https://www.smithsonianmag.com/smart-news/beloved-baffling-wrinkle-time-was-rejected-26-publishers-180961227/)

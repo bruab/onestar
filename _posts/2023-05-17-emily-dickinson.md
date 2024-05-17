@@ -21,7 +21,7 @@ featured: false
 
 References:
 
-- "[Western Canon](https://en.wikipedia.org/wiki/The_Western_Canon)"
-- "[postal stamp](https://postalmuseum.si.edu/exhibition/women-on-stamps-part-3-literature-poets/emily-dickinson)"
-- "[must have form and grammar](https://en.wikipedia.org/wiki/Emily_Dickinson#cite_ref-169)"
-- "[grotesque fancy](https://en.wikipedia.org/wiki/Emily_Dickinson#cite_ref-180)"
+- ["Western Canon"](https://en.wikipedia.org/wiki/The_Western_Canon)
+- ["postal stamp"](https://postalmuseum.si.edu/exhibition/women-on-stamps-part-3-literature-poets/emily-dickinson)
+- ["must have form and grammar"](https://en.wikipedia.org/wiki/Emily_Dickinson#cite_ref-169)
+- ["grotesque fancy"](https://en.wikipedia.org/wiki/Emily_Dickinson#cite_ref-180)

@@ -21,5 +21,5 @@ featured: false
 
 ---
 
-- "[enormous ears](https://en.m.wikipedia.org/wiki/Fred_Astaire)"
-- "[Can't act](https://quoteinvestigator.com/2014/08/07/bald/)"
+- ["enormous ears"](https://en.m.wikipedia.org/wiki/Fred_Astaire)
+- ["Can't act"](https://quoteinvestigator.com/2014/08/07/bald/)

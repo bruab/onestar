@@ -21,5 +21,5 @@ featured: false
 
 References:
 
-- "[caution to the winds](https://www.jstor.org/stable/1633395?seq=1)"
-- "[may be a compound](https://www.jstor.org/stable/1633395?seq=1)"
+- ["caution to the winds"](https://www.jstor.org/stable/1633395?seq=1)
+- ["may be a compound"](https://www.jstor.org/stable/1633395?seq=1)

@@ -23,5 +23,5 @@ featured: false
 
 References:
 
-- "[glib ab-ex slather](https://www.theguardian.com/artanddesign/jonathanjonesblog/2012/jun/21/leroy-neiman-famous-artist-great)"
-- "[archetypical hack](https://www.nytimes.com/2012/06/23/arts/design/leroy-neiman-and-the-serious-art-world.html)"
+- ["glib ab-ex slather"](https://www.theguardian.com/artanddesign/jonathanjonesblog/2012/jun/21/leroy-neiman-famous-artist-great)
+- ["archetypical hack"](https://www.nytimes.com/2012/06/23/arts/design/leroy-neiman-and-the-serious-art-world.html)

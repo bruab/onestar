@@ -17,5 +17,5 @@ featured: true
 
 References:
 
-- "[tens of millions](https://en.wikipedia.org/wiki/Jim_Carrey#cite_note-4)"
-- "[appallingly bad](https://siskelebert.org/?p=5206)"
+- ["tens of millions"](https://en.wikipedia.org/wiki/Jim_Carrey#cite_note-4)
+- ["appallingly bad"](https://siskelebert.org/?p=5206)

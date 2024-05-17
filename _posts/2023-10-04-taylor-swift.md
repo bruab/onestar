@@ -20,5 +20,5 @@ featured: false
 
 References:
 
-- "[bland and uninventive](https://www.theguardian.com/music/2009/mar/06/taylor-swift-fearless-album-review)"
-- "[serious limitations](https://www.slantmagazine.com/music/taylor-swift-fearless/)"
+- ["bland and uninventive"](https://www.theguardian.com/music/2009/mar/06/taylor-swift-fearless-album-review)
+- ["serious limitations"](https://www.slantmagazine.com/music/taylor-swift-fearless/)

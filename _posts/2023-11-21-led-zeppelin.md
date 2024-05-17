@@ -21,4 +21,4 @@ featured: false
 
 References:
 
-- "[weak, unimaginative](https://www.rollingstone.com/music/music-album-reviews/led-zeppelin-i-187298/)"
+- ["weak, unimaginative"](https://www.rollingstone.com/music/music-album-reviews/led-zeppelin-i-187298/)

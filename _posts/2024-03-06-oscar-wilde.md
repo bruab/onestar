@@ -25,6 +25,6 @@ featured: false
 
 References:
 
-- "[most known and quoted](https://www.independent.co.uk/voices/out-of-gags-try-oscar-wilde-1573007.html)"
-- "[unclean ... nauseous](https://www.newyorker.com/magazine/2011/08/08/deceptive-picture)"
+- ["most known and quoted"](https://www.independent.co.uk/voices/out-of-gags-try-oscar-wilde-1573007.html)
+- ["unclean ... nauseous"](https://www.newyorker.com/magazine/2011/08/08/deceptive-picture)
 

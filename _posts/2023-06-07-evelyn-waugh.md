@@ -20,5 +20,5 @@ featured: false
 
 References:
 
-- "[best 100 novels](https://en.wikipedia.org/wiki/Modern_Library_100_Best_Novels)"
-- "[burned the draft](https://archive.org/details/littlelearning0000waug/page/324/mode/2up?q=acton)"
+- ["best 100 novels"](https://en.wikipedia.org/wiki/Modern_Library_100_Best_Novels)
+- ["burned the draft"](https://archive.org/details/littlelearning0000waug/page/324/mode/2up?q=acton)

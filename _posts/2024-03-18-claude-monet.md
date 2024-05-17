@@ -4,18 +4,20 @@ title:  "Claude Monet"
 rating: 1
 categories: [ art ]
 image: assets/images/claude-monet.png
+excerpt: '"A preliminary drawing for a wallpaper pattern is more finished than this seascape"'
+bio: "The world's best-known impressionist painter, whose work sells for tens of millions of dollars and hangs in the Museum of Modern Art"
 date: 2024-03-18
 featured: false
 ---
 
-> A preliminary drawing for a wallpaper pattern is more finished than this seascape.
+> A preliminary drawing for a wallpaper pattern is more finished than this seascape
 
-Art critic [Louis Leroy](https://en.wikisource.org/wiki/Exhibition_of_the_Impressionists), reviewing Monet's _Impression, sunrise_.
+—Art critic Louis Leroy, reviewing Monet's _Impression, sunrise_. Leroy coined the term "impressionism" as an insult
 
-Claude Monet repeatedly failed to break into mainstream art culture. After multiple rejections by the Royal Academy of Art, he and several peers—including Renoir and Degas—formed their own society and put on their own exhibition.
+- Repeatedly rejected by the Royal Academy of Art
 
-They called it the "exhibition of rejects," and at this event he featured a painting called _Impression, sunrise._ Not only did he fail to sell it, he provoked an outraged article that derisively called him and his fellow painters "Impressionists."
+---
 
-The term stopped being an insult at some point, and Monet became the best-known of the Impressionists—long before his paintings hung in the Museum of Modern Art and started selling for tens of millions of dollars.
+References:
 
-
+- ["wallpaper pattern"](https://en.wikisource.org/wiki/Exhibition_of_the_Impressionists)

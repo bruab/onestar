@@ -25,8 +25,8 @@ featured: false
 
 References:
 
-- "[shot into space](https://en.wikipedia.org/wiki/Voyager_Golden_Record)"
-- "[monstrous and tasteless](https://en.wikisource.org/wiki/A_Dictionary_of_Music_and_Musicians/Spohr,_Louis)."
-- "[muscles and lungs](https://www.oregonlive.com/classicalmusic/2008/09/beethovens_ninth_kicks.html)"
-- "[dull and ugly](https://link.springer.com/content/pdf/bbm:978-1-137-44444-8/1.pdf)"
+- ["shot into space"](https://en.wikipedia.org/wiki/Voyager_Golden_Record)
+- ["monstrous and tasteless"](https://en.wikisource.org/wiki/A_Dictionary_of_Music_and_Musicians/Spohr,_Louis)
+- ["muscles and lungs"](https://www.oregonlive.com/classicalmusic/2008/09/beethovens_ninth_kicks.html)
+- ["dull and ugly"](https://link.springer.com/content/pdf/bbm:978-1-137-44444-8/1.pdf)
 
