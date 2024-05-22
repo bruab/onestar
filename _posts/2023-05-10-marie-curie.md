@@ -4,8 +4,8 @@ title:  "Marie Curie"
 rating: 1
 categories: [ science ]
 image: assets/images/marie-curie.png
-bio: "Nobel prize winner, first person to isolate radium."
 excerpt: "Workers in the radium school appear to have cast caution to the winds"
+bio: "Nobel prize winner, first person to isolate radium."
 featured: false
 ---
 
