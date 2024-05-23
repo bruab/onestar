@@ -5,8 +5,8 @@ rating: 1
 categories: [ literature ]
 image: assets/images/web-dubois.png
 date: 2024-05-22
-excerpt: '""'
-bio: "The first Black American to earn a PhD from Harvard, founding member of the NAACP. There are buildings, schools, humanitarian awards, and an orchestra named after him.
+excerpt: '"... probably he does not understand his own people ..."'
+bio: "The first Black American to earn a PhD from Harvard, founding member of the NAACP. There are buildings, schools, humanitarian awards, and an orchestra named after him."
 featured: false
 ---
 
