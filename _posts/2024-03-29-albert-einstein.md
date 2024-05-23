@@ -4,7 +4,7 @@ title:  "Albert Einstein"
 rating: 1
 categories: [ science ]
 image: assets/images/albert-einstein.png
-excerpt: '"... such sad scribblings'"
+excerpt: '"... such sad scribblings"'
 bio: "Nobel prize winning scientist, named Person of the Century by Time magazine, has an asteroid and an element named after him."
 date: 2024-03-29
 featured: false
