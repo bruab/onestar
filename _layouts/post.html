@@ -1,134 +1,61 @@
 ---
 layout: default
-disqus: false
-archive: false
-post_class: post-template
 ---
 
-<!-- Begin Article
-================================================== -->
-<div class="container">
-    <div class="row">
+<header class="site-masthead">
+  <h1 class="smol-header"><a href="/">One ☆ Star</a></h1>
+</header>
 
-        <!-- Post -->
-        {% assign author = site.authors[page.author] %}
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
 
-        <div class="col-md-9 flex-first flex-md-unordered">
-            <div class="mainheading">
+  {% if page.title != "" %}
+    <h1 class="post-title p-name" itemprop="name headline">
+      {{ page.title }}
+    </h1>
+    <!-- Post Bio -->
+    {% if page.bio %}
+    <p class="bio">{{ page.bio }}</p>
+    {% endif %}
 
-                <!-- Post Title -->
-                <h1 class="posttitle">{{ page.title }}</h1>
+    <hr />
 
-            </div>
+  {% endif %}
 
-            <!-- Post Bio -->
-            {% if page.bio %}
-            <p class="bio">{{ page.bio }}</p>
-            {% endif %}
 
-            <!-- Rating -->
-            {% if page.rating %}
-            <div class="rating mb-4 d-flex align-items-center">
-                <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
-            </div>
-            {% endif %}
-
-            <!-- Post Featured Image -->
-            {% if page.image %}
-
-            {% if site.lazyimages == "enabled" %}
-            <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
-            {% else %}
-            <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
-            {% endif %}
-
-            {% endif %}
-            <!-- End Featured Image -->
-
-            <!-- Post Content -->
-            <div class="article-post">
-                <!-- Toc if any -->
-                {% if page.toc %}
-                    {% if page.beforetoc %}
-                        <p><em>{{page.beforetoc}}</em></p>
-                    {% endif %}
-                    <div class="toc mt-4 mb-4 lead">
-                        <h3 class="font-weight-bold">Summary</h3>
-                        {% include toc.html html=content %}
-                    </div>
-                {% endif %}
-                <!-- End Toc -->
-                {{content}}
-            </div>
-
-            <!-- Post Categories -->
-            <div class="after-post-cats">
-                <ul class="tags mb-4">
-                    {% assign sortedCategories = page.categories | sort %}
-                    {% for category in sortedCategories %}
-                    <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-            <!-- End Categories -->
-
-            <!-- Post Tags -->
-            <div class="after-post-tags">
-                <ul class="tags">
-                    {% assign sortedTags = page.tags | sort %}
-                    {% for tag in sortedTags %}
-                    <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-            <!-- End Tags -->
-
-            <!-- Prev/Next -->
-            <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
-            {% if page.previous.url %}
-            <a class="prev d-block col-md-6" href="{{page.previous.url}}"> &laquo; {{page.previous.title}}</a>
-            {% endif %}
-            {% if page.next.url %}
-            <a class="next d-block col-md-6 text-lg-right" href="{{page.next.url}}">{{page.next.title}} &raquo; </a>
-            {% endif %}
-            <div class="clearfix"></div>
-            </div>
-            <!-- End Categories -->
-
-        </div>
-        <!-- End Post -->
-
+    <!-- Rating -->
+    {% if page.rating %}
+    <div class="rating mb-4 d-flex align-items-center">
+        <strong class="mr-1">Rating:</strong> {% include star_rating.html %}
     </div>
-</div>
-<!-- End Article
-================================================== -->
+    {% endif %}
 
-<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
-https://search.google.com/structured-data/testing-tool/u/0/
-================================================== -->
-{% if page.rating %}
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org/",
-  "@type": "Review",
-  "itemReviewed": {
-    "@type": "Thing",
-    "name": "{{ page.title }}"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "{{ author.display_name }}"
-  },
-  "datePublished": "{{ page.date | date:"%Y-%m-%d" }}",
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": "{{ page.rating }}",
-    "bestRating": "5"
-  }
-}
-</script>
-{% endif %}
+    <!-- Post Featured Image -->
+    {% if page.image %}
+
+    {% if site.lazyimages == "enabled" %}
+    <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+    {% else %}
+    <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+    {% endif %}
+
+    {% endif %}
+    <!-- End Featured Image -->
+
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <div class="post-meta">
+    {% if page.author %}
+      <div itemprop="author">{{ page.author }}</div>
+    {% endif %}
+  </div>
+
+  {% if site.disqus.shortname %}
+    {% include disqus-comments.html %}
+  {% endif %}
+
+</article>
+
+<!-- {% include sticky-footer.html %} -->

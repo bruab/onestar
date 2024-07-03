@@ -1,7 +1,94 @@
+/* Get rid of ugly hover state on ConvertKit modal close 'x' */
+.seva-modal .formkit-close:hover, .formkit-modal .formkit-close:hover {
+  background-color: transparent !important;
+}
+
+/* Style header on posts */
+.site-masthead .smol-header {
+  font-size: 2em;
+}
+
+.site-masthead .smol-header a {
+  text-decoration: none;
+  color: $muted-text-color;
+}
+
+.site-masthead .smol-header a:hover {
+  text-decoration: none;
+  color: $text-color;
+}
+
+@media (max-width: 472px) {
+  .site-masthead .smol-header {
+    font-size: 1.6em;
+  }
+}
+
+.footer-cta {
+  max-width: 960px;
+  margin: 24px 20px;
+  background-color: #3E3E3C;
+  border-radius: 80px;
+  padding: 20px 60px;
+  color: #E8E9C9;
+}
+
+.footer-cta a {
+  color: #E8E9C9;
+}
+
+/* Actually style blockquotes, come on man */
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote > * {
+  padding: 0 1em;
+}
+
+.post blockquote > p:last-of-type {
+  margin-bottom: 0px;
+}
+
+/* Add a lil padding to copyright section */
+.copyright {
+  padding-bottom: 12px;
+}
+
+/* Style bio blurb */
 .bio {
+  text-align: center;
   font-style: italic;
 }
 
+/* Style forms */
+form input {
+  border-radius: 3px;
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  margin: 4px 0;
+  min-height: 36px;
+  min-width: 240px;
+}
+
+form button {
+  background-color: $brand-color;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  padding: 12px 20px;
+  font-size: 18px;
+}
+
+form button:hover {
+  cursor: pointer;
+  background-color: $highlight;
+  color: $text-color;
+}
+
 .featured-image {
-  max-height: 600px;
+  width: 80%;
 }
