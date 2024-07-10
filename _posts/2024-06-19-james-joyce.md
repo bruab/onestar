@@ -6,7 +6,7 @@ categories: [ literature ]
 image: assets/images/james-joyce.png
 date: 2024-06-19
 excerpt: '"The average intelligent reader will glean little or nothing from [Ulysses] ... save bewilderment and a sense of disgust"'
-bio: "Author of the book ranked 1st (or 46th) of the best 100 novels in the English language (depending on whose list you consult)"
+bio: "Author of the book ranked 1st (or 46th) of the best 100 novels in the English language (depending on whose list you consult)."
 submitted_by: ""
 featured: false
 ---

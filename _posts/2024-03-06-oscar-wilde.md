@@ -4,7 +4,7 @@ title:  "Oscar Wilde"
 rating: 1
 categories: [ literature ]
 image: assets/images/oscar-wilde.png
-bio: 'Writer of "the second most known and quoted play in English after Hamlet"'
+bio: 'Writer of "the second most known and quoted play in English after Hamlet."'
 excerpt: '"Unclean .. poisonous ... nasty .. nauseous"'
 date: 2024-03-06
 featured: false

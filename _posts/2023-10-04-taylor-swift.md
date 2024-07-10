@@ -6,7 +6,7 @@ categories: [ music ]
 image: assets/images/taylor-swift.png
 date: 2023-10-04
 excerpt: '"... she’s a terrible singer."'
-bio: "Singer recognized as Artist of the Decade in the 2010s by the American Music Awards; the Federal Reserve writes about how her tour appearances impact local economies"
+bio: "Singer recognized as Artist of the Decade in the 2010s by the American Music Awards; the Federal Reserve writes about how her tour appearances impact local economies."
 featured: false
 ---
 

@@ -5,7 +5,7 @@ rating: 1
 categories: [ music ]
 image: assets/images/claude-debussy.png
 excerpt: '"The music of M. Debussy leads to the emaciation and ruin of our essence."'
-bio: "Composer credited with marking the beginning of modern music, influencing Duke Ellington"
+bio: "Composer credited with marking the beginning of modern music, influencing Duke Ellington."
 date: 2024-04-15
 featured: false
 ---

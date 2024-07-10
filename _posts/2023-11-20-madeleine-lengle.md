@@ -7,7 +7,7 @@ image: assets/images/madeleine-lengle.png
 date: 2023-11-20
 submitted_by: "Marjorie Turner Hollman"
 excerpt: "Rejected by 26 publishers"
-bio: "Newberry Medal-winning writer with a crater on Mercury named after her"
+bio: "Newberry Medal-winning writer with a crater on Mercury named after her."
 featured: false
 ---
 

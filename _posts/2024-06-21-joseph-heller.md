@@ -6,7 +6,7 @@ categories: [ literature ]
 image: assets/images/joseph-heller.png
 date: 2024-06-21
 excerpt: '"Catch-22 ... gasps for want of craft and sensibility ... the book is no novel."'
-bio: 'Multi-million-selling, Nobel Prize nominated author'
+bio: 'Multi-million-selling, Nobel Prize nominated author.'
 submitted_by: ""
 featured: false
 ---

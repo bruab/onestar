@@ -6,7 +6,7 @@ categories: [ acting, dance ]
 image: assets/images/fred-astaire.png
 date: 2023-10-23
 excerpt: "Can't act; slightly bald; can dance a little."
-bio: "Two-time Academy Award winning actor and dancer who revolutionized the role of dance in film"
+bio: "Two-time Academy Award winning actor and dancer who revolutionized the role of dance in film."
 submitted_by: "Tom Kerwin"
 featured: false
 ---

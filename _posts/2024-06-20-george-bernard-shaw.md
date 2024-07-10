@@ -6,7 +6,7 @@ categories: [ literature ]
 image: assets/images/george-bernard-shaw.png
 date: 2024-06-20
 excerpt: '"...he has not a touch of the poetical in his composition"'
-bio: 'Nobel Prize winner, "the most important English-language playwright after Shakespeare"'
+bio: 'Nobel Prize winner, "the most important English-language playwright after Shakespeare."'
 submitted_by: ""
 featured: false
 ---

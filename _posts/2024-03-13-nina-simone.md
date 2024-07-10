@@ -5,7 +5,7 @@ rating: 1
 categories: [ music ]
 image: assets/images/nina-simone.png
 excerpt: '"...middlebrow keyboard tickler"'
-bio: "Juilliard-trained musician, inducted into the Rock and Roll Hall of Fame and named the 21st greatest singer of all time by Rolling Stone"
+bio: "Juilliard-trained musician, inducted into the Rock and Roll Hall of Fame and named the 21st greatest singer of all time by Rolling Stone."
 date: 2024-03-13
 featured: false
 ---

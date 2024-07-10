@@ -5,7 +5,7 @@ rating: 1
 categories: [ science ]
 image: assets/images/trota-of-salerno.png
 excerpt: "Scholars literally made up a dude to credit for her work"
-bio: "Medieval midwife who attended the world's first medical school and published the first text on gynecology"
+bio: "Medieval midwife who attended the world's first medical school and published the first text on gynecology."
 featured: false
 ---
 

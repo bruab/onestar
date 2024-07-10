@@ -6,7 +6,7 @@ categories: [ science ]
 image: assets/images/ignaz-semmelweiss.png
 date: 2024-03-05
 excerpt: "Mocked, institutionalized, and beaten as a result of his controversial advocacy for ... hand washing"
-bio: "Scientist whose findings led to a 90% decrease in maternal mortality"
+bio: "Scientist whose findings led to a 90% decrease in maternal mortality."
 submitted_by: ""
 featured: false
 ---

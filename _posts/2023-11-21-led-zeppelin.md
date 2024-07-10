@@ -7,7 +7,7 @@ image: assets/images/led-zeppelin.png
 date: 2023-11-21
 submitted_by: "bdh"
 excerpt: '"... weak, unimaginative songs ... very dull"'
-bio: "The biggest band of the Seventies, released 8 number one albums in a row"
+bio: "The biggest band of the Seventies, released 8 number one albums in a row."
 featured: false
 ---
 

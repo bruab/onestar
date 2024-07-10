@@ -4,7 +4,7 @@ title:  "Ida B. Wells"
 rating: 1
 categories: [ literature ]
 excerpt: '"... a slanderous and nasty-minded mulatress"'
-bio: "(Posthumous) Pulitzer Prize winning journalist who appears on an honorary postage stamp"
+bio: "(Posthumous) Pulitzer Prize winning journalist who appears on an honorary postage stamp."
 image: assets/images/ida-b-wells.png
 date: 2024-03-20
 featured: false

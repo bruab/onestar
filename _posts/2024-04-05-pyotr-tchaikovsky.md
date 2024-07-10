@@ -4,7 +4,7 @@ title:  "Pyotr Tchaikovsky"
 rating: 1
 categories: [ music ]
 excerpt: '"... a musical monster ... ear-flaying horror"'
-bio: "Composer of The Nutcracker (which brings in over 40% of most ballet companies' annual revenue)"
+bio: "Composer of The Nutcracker (which brings in over 40% of most ballet companies' annual revenue)."
 image: assets/images/pyotr-tchaikovsky.png
 date: 2024-04-05
 featured: false

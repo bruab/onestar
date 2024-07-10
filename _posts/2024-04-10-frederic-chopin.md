@@ -4,7 +4,7 @@ title:  "Frédéric Chopin"
 rating: 1
 categories: [ music ]
 excerpt: '"... ranting hyperbole and excruciating cacophany"'
-bio: "Piano virtuoso who normalized the use of dissonance, introduced innovative techniques, and inspired Alicia Keys"
+bio: "Piano virtuoso who normalized the use of dissonance, introduced innovative techniques, and inspired Alicia Keys."
 image: assets/images/frederic-chopin.png
 date: 2024-04-10
 featured: false

@@ -6,7 +6,7 @@ categories: [ literature ]
 image: assets/images/evelyn-waugh.png
 date: 2023-06-07
 excerpt: '"Too British"'
-bio: "Writer whose _Brideshead Revisited_ was recognized as one of the best 100 novles in the english language"
+bio: "Writer whose _Brideshead Revisited_ was recognized as one of the best 100 novles in the english language."
 featured: false
 ---
 

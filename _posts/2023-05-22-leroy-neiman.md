@@ -5,7 +5,7 @@ rating: 1
 categories: [ art ]
 image: assets/images/leroy-neiman.png
 excerpt: '"The archetypical hack"'
-bio: "One of the most successful artists of all time, who made (and gave away) millions of dollars"
+bio: "One of the most successful artists of all time, who made (and gave away) millions of dollars."
 featured: false
 ---
 

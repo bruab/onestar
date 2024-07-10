@@ -4,7 +4,7 @@ title:  "George Gershwin"
 rating: 1
 categories: [ music ]
 excerpt: '"... so derivative, so stale, so inexpressive!"'
-bio: "The highest-earning composer of all time, winner of an Academy Award, a Congressional Gold Medal, and a special Pulitzer Prize"
+bio: "The highest-earning composer of all time, winner of an Academy Award, a Congressional Gold Medal, and a special Pulitzer Prize."
 image: assets/images/george-gershwin.png
 date: 2024-04-03
 featured: false

@@ -5,7 +5,7 @@ rating: 1
 categories: [ art ]
 image: assets/images/claude-monet.png
 excerpt: '"A preliminary drawing for a wallpaper pattern is more finished than this seascape"'
-bio: "The world's best-known impressionist painter, whose work sells for tens of millions of dollars and hangs in the Museum of Modern Art"
+bio: "The world's best-known impressionist painter, whose work sells for tens of millions of dollars and hangs in the Museum of Modern Art."
 date: 2024-03-18
 featured: false
 ---

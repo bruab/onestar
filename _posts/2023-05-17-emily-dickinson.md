@@ -5,7 +5,7 @@ rating: 1
 categories: [ literature, poetry ]
 image: assets/images/emily-dickinson.png
 excerpt: '"an eccentric, dreamy, half-educated recluse"'
-bio: 'Poet, "central to The Western Canon," has her own postal stamp'
+bio: 'Poet, "central to The Western Canon," has her own postal stamp.'
 featured: false
 ---
 

@@ -5,7 +5,7 @@ rating: 1
 categories: [ film ]
 image: assets/images/martin-scorsese.png
 excerpt: '"his script and direction lack any dramatic value ..."'
-bio: '20-time Academy Award winning director'
+bio: '20-time Academy Award winning director.'
 date: 2024-04-30
 ---
 

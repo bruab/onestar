@@ -5,7 +5,7 @@ rating: 1
 categories: [ music ]
 image: assets/images/nick-drake.png
 excerpt: '... an awkward mix of folk and cocktail jazz ...'
-bio: 'Singer-songwriter who made 3 of the 500 greatest albums of all time, inspired Kate Bush and Radiohead'
+bio: 'Singer-songwriter who made 3 of the 500 greatest albums of all time, inspired Kate Bush and Radiohead.'
 featured: false
 ---
 

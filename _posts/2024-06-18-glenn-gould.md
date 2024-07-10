@@ -6,7 +6,7 @@ categories: [ music ]
 image: assets/images/glenn-gould.png
 date: 2024-06-18
 excerpt: '"I never heard him play anything that I thought was beautiful"'
-bio: 'Hall of fame pianist with a performance included in the NASA Voyager Golden Record'
+bio: 'Hall of fame pianist with a performance included in the NASA Voyager Golden Record.'
 submitted_by: ""
 featured: false
 ---
