@@ -1,7 +1,7 @@
 # Site settings
 title: One Star
 email: onestar@briandavidhall.com
-description: 42 reasons to ignore your critics
+description: '44 reasons to ignore your critics'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://onestar.world" 
 icon: /assets/images/favicon.png
