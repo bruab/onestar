@@ -11,4 +11,12 @@ submitted_by: "TODO"
 featured: false
 ---
 
-TODO
+> review
+
+—source
+
+---
+
+References:
+
+- ["quote"](link)
