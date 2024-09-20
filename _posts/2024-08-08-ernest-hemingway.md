@@ -7,7 +7,6 @@ image: assets/images/ernest-hemingway.png
 date: 2024-08-08
 excerpt: '"Technique, however, is not enough to make a great writer ..."'
 bio: 'Pulitzer and Nobel prize-winning author'
-submitted_by: "TODO"
 featured: false
 ---
 
