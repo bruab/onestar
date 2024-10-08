@@ -16,6 +16,7 @@ featured: false
 
 > ... serious limitations that she simply hasn’t attempted to improve upon since her debut ... Swift’s greatest liability by far is that she’s a terrible singer.
 
+—_Slant_ magazine, 2008
 ---
 
 References:

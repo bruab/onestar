@@ -2,7 +2,7 @@
 layout: post
 title:  "Fred Astaire"
 rating: 1
-categories: [ acting, dance ]
+categories: [ film ]
 image: assets/images/fred-astaire.png
 date: 2023-10-23
 excerpt: "Can't act; slightly bald; can dance a little."

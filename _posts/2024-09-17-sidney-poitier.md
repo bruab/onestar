@@ -2,7 +2,7 @@
 layout: post
 title:  "Sidney Poitier"
 rating: 1
-categories: [ acting ]
+categories: [ film ]
 image: assets/images/sidney-poitier.png
 date: 2024-09-17
 excerpt: '"I never found Poitier to be particularly exciting as an actor."'

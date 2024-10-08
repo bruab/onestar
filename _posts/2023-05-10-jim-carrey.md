@@ -2,7 +2,7 @@
 layout: post
 title:  "Jim Carrey"
 rating: 1
-categories: [ acting ]
+categories: [ film ]
 image: assets/images/jim-carrey.png
 excerpt: "So obnoxious ... appallingly bad."
 bio: "Two-time Golden Globe winning actor who gets paid tens of millions of dollars per film."

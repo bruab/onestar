@@ -2,7 +2,7 @@
 layout: post
 title:  "Steve Martin"
 rating: 1
-categories: [ acting ]
+categories: [ film ]
 image: assets/images/steve-martin.png
 date: 2024-07-12
 excerpt: '"... the worst booking in the history of Los Angeles."'
