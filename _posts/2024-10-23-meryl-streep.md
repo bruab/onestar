@@ -23,4 +23,4 @@ featured: false
 References:
 
 - ["doesn't add up"](https://karinalongworth-blog1.tumblr.com/post/74848476123/meryl-streep-vs-pauline-kael)
-- ["innate personality"](https://karinalongworth-blog1.tumblr.com/post/74848476123/meryl-streep-vs-pauline-kael)
+- ["innate personality"](https://books.google.com/books/about/Meryl_Streep_Anatomy_of_an_Actor.html?id=dJv1mwEACAAJ)
