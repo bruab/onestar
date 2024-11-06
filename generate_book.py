@@ -23,8 +23,10 @@ for filename in os.listdir(posts_dir):
         frontmatter = next(yaml.safe_load_all(filestring))
         #print(frontmatter)
         title = frontmatter['title']
+        category = frontmatter['categories'][0].title()
+        bio = frontmatter['bio']
         body = "# " + title + '\n\n'
-        body += "_" + frontmatter['bio'] + '_\n'
+        body += "_" + category + ' • ' + bio + '_\n'
         body += filestring.split('---')[2]
         #print(body)
         chapter_titles.append(title)

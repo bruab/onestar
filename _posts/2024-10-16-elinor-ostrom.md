@@ -6,7 +6,7 @@ categories: [ science ]
 image: assets/images/elinor-ostrom.png
 date: 2024-10-16
 excerpt: '"Rejected from economics PhD program"'
-bio: 'First woman to win a Nobel Prize in Economis'
+bio: 'First woman to win a Nobel Prize in Economics'
 featured: false
 ---
 

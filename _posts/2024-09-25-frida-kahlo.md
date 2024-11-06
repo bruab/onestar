@@ -6,8 +6,7 @@ categories: [ art ]
 image: assets/images/frida-kahlo.png
 date: 2024-09-25
 excerpt: '"... an almost colour-by-numbers style."'
-bio: ''
-submitted_by: "TODO"
+bio: 'The first Latin American artist to sell a painting for > $1MM'
 featured: false
 ---
 
