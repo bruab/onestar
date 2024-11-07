@@ -9,7 +9,7 @@ bio: 'Poet, "central to The Western Canon," has her own postal stamp.'
 featured: false
 ---
 
-> If poetry is to exist at all, it really must have form and grammar, and must rhyme when it professes to rhyme."
+> If poetry is to exist at all, it really must have form and grammar, and must rhyme when it professes to rhyme.
 
 —Writer Andrew Lang
 
